@@ -86,7 +86,7 @@ This project follows a structured approach to segment customers based on their p
   - **Bar Plots** to show the number of customers in each segment
   - **Boxplots** and **Pairplots** for comparative analysis of metrics across clusters
  
-  ### 🧠 Cluster-Wise Conclusion
+### 🧠 10. Cluster-Wise Conclusion
 
 #### ✅ Cluster 0 (Skyblue)
 **Observation:**
